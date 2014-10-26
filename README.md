@@ -1,4 +1,4 @@
-# RbLunrjs
+# rb_lunrjs
 
 A tool for writing a [http://lunrjs.com/](lunr.js) index with Ruby.
 
