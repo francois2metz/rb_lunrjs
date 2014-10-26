@@ -1,6 +1,6 @@
 # RbLunrjs
 
-A tool for writing a lunr.js index with Ruby.
+A tool for writing a [http://lunrjs.com/](lunr.js) index with Ruby.
 
 ## Installation
 
